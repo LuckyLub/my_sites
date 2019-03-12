@@ -1,0 +1,22 @@
+.background {
+    background-image: url('pi.png'),url('blackboard.jpg');
+    background-position: center,center; /* Center the image */
+    background-repeat: no-repeat,no-repeat; /* Do not repeat the image */
+    background-attachment: fixed, fixed;
+    ;
+}
+
+
+.pi {
+    color: white;
+    word-wrap: break-word;
+   ;
+}
+
+.text{
+  text-align: center;
+}
+
+.uppercase{
+  text-transform: uppercase;
+  }
