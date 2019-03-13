@@ -7,14 +7,18 @@
 }
 
 
+
 .pi {
     color: white;
     word-wrap: break-word;
+    width : 80%;
+    margin: auto;
    ;
 }
 
 .text{
-  text-align: center;
+    color: white;
+    text-align: center;
 }
 
 .uppercase{
